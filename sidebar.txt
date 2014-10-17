@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ped:home|Door43 (ped)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ped|d43-ped repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ped/archive/master.zip|d43-ped.zip]]
+
+**Recent Changes**
+{{changes>ns = ped}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ped|Ethnologue data]]
+
